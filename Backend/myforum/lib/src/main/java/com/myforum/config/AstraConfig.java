@@ -5,7 +5,6 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class AstraConfig {
-
     @Value("${datastax.astra.db.id}")
     private String astraId;
 
