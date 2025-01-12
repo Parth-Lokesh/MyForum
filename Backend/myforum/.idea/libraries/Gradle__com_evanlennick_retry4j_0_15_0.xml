@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.evanlennick:retry4j:0.15.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.evanlennick/retry4j/0.15.0/637c3f7b67084684e8b2e80fa37c363c601cd05c/retry4j-0.15.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.evanlennick/retry4j/0.15.0/9373a05a977d6547b622bd2ac9cc93627c408c47/retry4j-0.15.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
