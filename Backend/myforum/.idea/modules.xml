@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myforum.iml" filepath="$PROJECT_DIR$/.idea/modules/myforum.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/myforum.lib.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/myforum.lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/myforum.lib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/myforum.lib.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/myforum.lib.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/myforum.lib.test.iml" />
