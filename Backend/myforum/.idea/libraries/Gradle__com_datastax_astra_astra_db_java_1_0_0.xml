@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.datastax.astra:astra-db-java:1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.datastax.astra/astra-db-java/1.0.0/3725c83ce174cf3365d34cbf1e6d0f221dae1b2/astra-db-java-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.datastax.astra/astra-db-java/1.0.0/c5291a415f8f62a1e3d0c1765810c5ff6d695764/astra-db-java-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

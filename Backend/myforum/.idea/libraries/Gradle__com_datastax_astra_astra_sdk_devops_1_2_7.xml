@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.datastax.astra:astra-sdk-devops:1.2.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.datastax.astra/astra-sdk-devops/1.2.7/60e8efad786a19b30176fb2ada6f324f60717905/astra-sdk-devops-1.2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.datastax.astra/astra-sdk-devops/1.2.7/e36f07def0d9085c149600159d610b6476da7441/astra-sdk-devops-1.2.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
